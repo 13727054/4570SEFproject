@@ -1,7 +1,8 @@
+flask
+gunicorn
 torch
 diffusers
 transformers
 accelerate
 safetensors
-flask
 Pillow
